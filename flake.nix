@@ -41,7 +41,7 @@
           downloadPage = "https://github.com/Alex313031/thorium";
           license = licenses.bsd3;
           sourceProvenance = with sourceTypes; [binaryNativeCode];
-          maintainers = with maintainers; [cmooon];
+          maintainers = with maintainers; [fn3x];
           platforms = ["x86_64-linux"];
         };
       };
